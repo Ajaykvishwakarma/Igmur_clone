@@ -1,1 +1,2 @@
-# Igmur_clone https://github.com/Ajaykvishwakarma/Igmur_clone/tree/main/Ajay
+# Igmur_clone 
+https://dreamy-hummingbird-f21097.netlify.app/
